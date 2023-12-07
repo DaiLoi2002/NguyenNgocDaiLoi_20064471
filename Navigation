@@ -7,7 +7,7 @@ import { Button} from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 //Login
-const URL = 'https://6509669ef6553137159b5c22.mockapi.io/api/v1/app'
+const URL = 'https://6553766e5449cfda0f2ebbf0.mockapi.io/Tudien'
 function Login({ navigation }) {
   const [data, setData] = React.useState([]);
   useEffect(() => {
